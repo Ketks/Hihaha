@@ -7,8 +7,8 @@ const texts = [
     'Hi',
     'so ano...',
     'Summer fling lang ba talaga?😓',
-    'weh? wait gaga, kinikilig ako😓',
-    'ah.. sge ayosayos😓'
+    'ah.. sge ayosayos😓',
+    'weh? wait gaga, kinikilig ako😓'
 ];
 
 const choices = [
