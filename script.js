@@ -5,10 +5,10 @@ let currentTextIndex = 0;
 
 const texts = [
     'Hi',
-    'so ano...',
+    'hindi mo ako kilala pero...',
     'May chance ba ako sayo?',
-    'ah.. sge.. ayosayos..',
-    'send mo screenshot sakin para mas kiligin ako lalo'
+    'ss -> send it to me -> get these benefits: updating without you asking, good morning/night everyday, willing to wait for your messages even how late you reply, and more!',
+    'ahh... ganon ba.. sge..'
 ];
 
 const choices = [
