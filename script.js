@@ -5,7 +5,7 @@ let currentTextIndex = 0;
 
 const texts = [
     'Hi',
-    'hindi mo ako kilala pero...',
+    'hindi mo ako kilala here sa ig nato pero...',
     'May chance ba ako sayo?',
     'ss -> send it to me -> get these benefits: updating without you asking, good morning/night everyday, willing to wait for your messages even how late you reply, and more!',
     'ahh... ganon ba.. sge sge..'
