@@ -6,9 +6,9 @@ let currentTextIndex = 0;
 const texts = [
     'Hi',
     'so ano...',
-    'Summer fling lang ba talaga?😓',
-    'ah.. sge ayosayos😓',
-    'weh? wait gaga, kinikilig ako😓'
+    'May chance ba ako sayo?',
+    'ah.. sge.. ayosayos..',
+    'send mo screenshot sakin para mas kiligin ako lalo'
 ];
 
 const choices = [
