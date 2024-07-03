@@ -8,7 +8,7 @@ const texts = [
     'hindi mo ako kilala pero...',
     'May chance ba ako sayo?',
     'ss -> send it to me -> get these benefits: updating without you asking, good morning/night everyday, willing to wait for your messages even how late you reply, and more!',
-    'ahh... ganon ba.. sge..'
+    'ahh... ganon ba.. sge sge..'
 ];
 
 const choices = [
